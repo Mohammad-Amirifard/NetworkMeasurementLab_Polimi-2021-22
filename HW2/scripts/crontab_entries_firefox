@@ -1,0 +1,1 @@
+*/30 06-23 * * * export DISPLAY=:0 && /home/stefano/DATASET_HW2/script.sh

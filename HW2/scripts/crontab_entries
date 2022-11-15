@@ -1,0 +1,1 @@
+*/10 06-23 * * * docker exec -t hw2 /root/script.sh
